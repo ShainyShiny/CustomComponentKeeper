@@ -1,6 +1,8 @@
 /*!
  * CustomComponentKeeper for Server v1.0.0
  * by Shainy
+ *
+ * GitHub: https://github.com/shainy9969/CustomComponentKeeper
  */
 
 (function() {
